@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ReplyPilot</string>
+    <string name="accessibility_service_description">ReplyPilot automatically reads incoming WhatsApp messages, references contact memory and tone rules, and sends AI-generated replies on your behalf.</string>
+    <string name="notification_channel_name">Auto-Reply Monitor</string>
+    <string name="notification_channel_description">Notifications for auto-reply activity and background service status</string>
+    <string name="perm_accessibility_title">Accessibility Service</string>
+    <string name="perm_accessibility_desc">Required to read on-screen WhatsApp chat messages, type into the message box, and click send automatically.</string>
+    <string name="perm_notification_title">Notification Access</string>
+    <string name="perm_notification_desc">Enables instant auto-replies directly from background notifications without opening WhatsApp.</string>
+    <string name="perm_battery_title">Battery Optimization</string>
+    <string name="perm_battery_desc">Prevents Android from killing the background service while your screen is off.</string>
+</resources>

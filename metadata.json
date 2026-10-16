@@ -1,0 +1,6 @@
+{
+  "name": "ReplyPilot",
+  "description": "AI-powered WhatsApp auto-reply assistant with customizable per-contact tones, conversation memory, and locally encrypted message history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
